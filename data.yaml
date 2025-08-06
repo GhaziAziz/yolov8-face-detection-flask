@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/split/train
+val: /content/drive/MyDrive/split/val
+test: /content/drive/MyDrive/split/test
+
+nc: 7
+names: [Ali, Mosa, Ammar, Ghazi, Saad, Zia, Idrees]
